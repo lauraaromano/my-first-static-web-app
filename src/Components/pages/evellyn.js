@@ -8,8 +8,8 @@ function Evellyn() {
 
       <section className="profile-section">
         <img 
-          src="img/fotolaura.jpg" 
-          alt="Foto de Laura" 
+          src="/img/fotoevellyn.jpg" 
+          alt="Foto da Evellyn" 
           className="profile-photo"
         />
         <div className="personal-info">
