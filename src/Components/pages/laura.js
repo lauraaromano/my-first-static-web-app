@@ -8,7 +8,7 @@ function Laura() {
 
       <section className="profile-section">
         <img 
-          src="img/fotolaura.JPG" 
+          src="/img/fotolaura.JPG" 
           alt="Foto de Laura" 
           className="profile-photo"
         />
